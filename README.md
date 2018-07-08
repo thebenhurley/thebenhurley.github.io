@@ -1,7 +1,7 @@
 # Personal Website
-This website was created from using the Creative template from Bootstrap. Info from Start Bootstrap can be found below.
+This website [link to benthetechguy.com](https://www.benthetechguy.com) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found below.
 
-Custom changes to the site that deviate from the original template were made by me. Using this as project as a refresher for front-end static web design and to add a convenient method for friends and companies to access my resume, github, and social media.
+Custom changes to the site that deviate from the original template were made by me. I am using this as project as a refresher for front-end static web design and to add a convenient method for friends and companies to access my resume, github, and social media links.
 
 # From Bootstrap:
 
