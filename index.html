@@ -230,7 +230,14 @@
     <section class="bg-dark text-white">
       <div class="container text-center">
         <h2 class="mb-4">Resume At-A-Glance</h2>
-        <a class="btn btn-light btn-xl sr-button" href="docs/Benjamin_Hurley_Resume.pdf">View as PDF</a>
+        <div style="margin-top:3em;margin-bottom:3em;">
+          <iframe src="docs/Benjamin_Hurley_Resume.pdf" style="width:100%;" class="myIframe"></iframe>
+          <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script type="text/javascript" language="javascript"> 
+              $('.myIframe').css('height', $(window).height()+'px');
+            </script>
+            </div>
+        <a class="btn btn-light btn-xl sr-button js-scroll-trigger" href="#contact">Let's Chat</a>
       </div>
     </section>
 
@@ -238,7 +245,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Let's Chat</h2>
+            <h2 class="section-heading">Contact Me</h2>
             <hr class="my-4">
             <p class="mb-5">If you are a recruiter looking for technical talent, a student looking for private turoring, or an organization looking for a consultant, lets talk more. Please reach out to me via email or phone and I will respond promptly.</p>
           </div>
@@ -255,6 +262,9 @@
             </p>
           </div>
         </div>
+      </div>
+      <div style="text-align:center;margin-top:3em;margin-bottom:3em;">
+      <a class="btn btn-primary btn-xl js-scroll-trigger "href="#page-top">Back to Top</a>
       </div>
     </section>
 
