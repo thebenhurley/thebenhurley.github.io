@@ -1,5 +1,5 @@
 # Personal Website
-My website [benthetechguy.com](http://www.benthetechguy.com) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
+My website [thebenhurley.github.io](https://thebenhurley.github.io) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
 
 ![Alt text](img/homescreen.png "Home Page Screen Shot")
 
