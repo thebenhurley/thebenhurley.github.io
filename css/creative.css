@@ -46,6 +46,10 @@ h6 {
   background-color: #212529 !important;
 }
 
+.bg-grey {
+  background-color: #808080 !important;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
