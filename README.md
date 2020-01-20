@@ -1,3 +1,5 @@
+https://flat.badgen.net/dependabot/benhurley/benhurley.github.io
+
 # Personal Website
 My website [benhurley.github.io](https://benhurley.github.io) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
 
