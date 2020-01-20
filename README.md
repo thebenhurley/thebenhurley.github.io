@@ -1,4 +1,4 @@
-https://flat.badgen.net/dependabot/benhurley/benhurley.github.io
+[![dependency]][dependency-url]
 
 # Personal Website
 My website [benhurley.github.io](https://benhurley.github.io) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
@@ -80,3 +80,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+
+<!-- Badge icons -->
+
+[dependabot]: https://flat.badgen.net/dependabot/benhurley/benhurley.github.io?icon=dependabot&label=dependabot
