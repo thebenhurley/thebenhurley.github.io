@@ -1,7 +1,7 @@
-[![dependency]][dependency-url]
+[![dependabot]][dependabot-url]
 
 # Personal Website
-My website [benhurley.github.io](https://benhurley.github.io) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
+My website [benhurley.dev](https://benhurley.dev) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
 
 ![Alt text](img/homescreen.png "Home Page Screen Shot")
 
@@ -84,3 +84,8 @@ Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https:/
 <!-- Badge icons -->
 
 [dependabot]: https://flat.badgen.net/dependabot/benhurley/benhurley.github.io?icon=dependabot&label=dependabot
+
+<!-- Badge URLs -->
+
+[dependabot-url]: https://flat.badgen.net/dependabot/benhurley/benhurley.github.io
+
